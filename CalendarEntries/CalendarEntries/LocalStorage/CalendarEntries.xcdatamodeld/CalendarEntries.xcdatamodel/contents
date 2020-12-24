@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="16119" systemVersion="19G73" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Calendarevents" representedClassName="Calendarevents" isAbstract="YES" syncable="YES" codeGenerationType="class">
+        <attribute name="eventsdate" optional="YES" attributeType="String"/>
+        <attribute name="eventsdecs" optional="YES" attributeType="String"/>
+        <attribute name="eventsid" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Calendarevents" positionX="-54" positionY="-9" width="128" height="88"/>
+    </elements>
+</model>
